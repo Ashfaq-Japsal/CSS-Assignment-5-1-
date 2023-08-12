@@ -1,0 +1,31 @@
+
+
+.box1 {
+    height: 50px;
+    width: 100px;
+    background-color: rgb(255, 129, 91);
+    border: 2px solid black;
+}
+
+.box2 {
+    height: 50px;
+    width: 250px;
+    background-color: rgb(95, 171, 201);
+    border: 2px solid black;
+}
+
+.box3 {
+    height: 50px;
+    width: 375px;
+    background-color: rgb(255, 229, 82);
+    border: 2px solid black;
+}
+
+ div {
+    float: left;
+    margin: 0px 10px;
+}
+
+#main {
+    margin: 10% 37%;
+}
